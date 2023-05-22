@@ -8,7 +8,7 @@
    <br>
    </a>
    <a align="center" href="https://blog.t1c.dev/" target="blank"><img src="https://shields.io/badge/read_my-blog-EEE?logo=write.as&logoColor=EEE&style=for-the-badge" alt="blog"/></a>
-   <a align="center" href="https://app.revolt.chat/invite/3jE9DgmF" target="blank"><img src="https://custom-icon-badges.herokuapp.com/badge/join_my-revolt-FC4454?logo=revoltchat&logoColor=FC4454&style=for-the-badge" alt="revolt"/></a>
+   <a align="center" href="https://app.revolt.chat/invite/" target="blank"><img src="https://custom-icon-badges.herokuapp.com/badge/join_my-revolt-FC4454?logo=revoltchat&logoColor=FC4454&style=for-the-badge" alt="revolt"/></a>
    <a align="center" href="https://liberapay.com/seiyax0/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay&style=for-the-badge" alt="librepay"/></a><br>
    <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseiyax0%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/>
