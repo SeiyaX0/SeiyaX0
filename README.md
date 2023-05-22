@@ -18,7 +18,7 @@
       <summary>
          <kbd><h3>View Metrics</h3><kbd>
       </summary>
-    <a href="https://raw.githubusercontent.com/ThatOneCalculator/ThatOneCalculator/main/github-metrics.svg"><img src="./github-metrics.svg" /></a>
+    <a href="https://raw.githubusercontent.com/ThatOneCalculator/ThatOneCalculator/main/github-metrics.svg"><img src="https://raw.githubusercontent.com/ThatOneCalculator/ThatOneCalculator/main/github-metrics.svg" /></a>
    </details>
    <details>
       <summary>
