@@ -18,6 +18,7 @@
       <summary>
          <kbd><h3>View Metrics</h3><kbd>
       </summary>
+      <br>
     <a href="https://raw.githubusercontent.com/ThatOneCalculator/ThatOneCalculator/main/github-metrics.svg"><img src="https://i.imgur.com/Qaw1s4U.png" /></a>
    </details>
    <details>
