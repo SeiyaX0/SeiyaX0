@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=44733677)
 <a rel="me" href="https://voring.me/@seiyax0"></a>
-<h1 align="center">Hi, I'm seiyax0, aka TheDecryptor! 👋</h1>
+<h1 align="center">Hi, I'm SeiyaX0, aka TheDecryptor! 👋</h1>
 <h3 align="center">A 19 year old IT-Security student. See my portfolio at https://t1c.dev!</h3>
 <h3 align="center">
    <a align="center" rel="me" href="https://stop.voring.me/@seiyax0">
